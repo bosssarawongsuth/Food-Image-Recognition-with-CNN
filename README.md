@@ -20,7 +20,7 @@ The images in the testing set were webscraped from search engines such as Google
 
 
 ### Evaluation
-<img src="https://github.com/bosssarawongsuth/cnn_food_classification/blob/main/images/evaluation.PNG?raw=true" style="float: left; margin: 20px; height: 55px">
+<img src="https://github.com/bosssarawongsuth/cnn_food_classification/blob/main/images/evaluation.png?raw=true" style="float: left; margin: 20px; height: 55px">
 
 The graph above shows the training, validation and testing accuracy for the 8 models trained. They are ranked on the performance on the unseen testing set. In this case, 'Inception V3 Dropout', 'InceptionV3 GAP', 'Inception-ResNetV2' and 'Inception-ResNetV2 Dropout' all scored 0.84 accuracy on the testing set. Thus, these four models generally have low bias. However, as the graph shows, when we take into account the training and validation accuracies, we can see that 'Inception V3 Dropout' generalises the best without suffering from the overfitting problem (high variance). Therefore, this model will be used as the classification engine for our web application.
 
