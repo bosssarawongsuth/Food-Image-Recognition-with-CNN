@@ -1,4 +1,4 @@
-# GA DSi Capstone Project: Food Image Recognition using Convolutional Neural Network
+# DSi Capstone Project: Food Image Recognition using Convolutional Neural Network
 ## Jetnipat Sarawongsuth 
 ### Problem Statement
 
