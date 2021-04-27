@@ -14,3 +14,5 @@ The images in the testing set were webscraped from search engines such as Google
 
 
 ***These images across the training, validation and testing sets are above 256x256 in resolution.***
+
+<img src="https://github.com/bosssarawongsuth/cnn_food_classification/blob/main/images/images.PNG?raw=true" style="float: left; margin: 20px; height: 55px">
