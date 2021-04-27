@@ -5,7 +5,7 @@
 - Part 1 - Dataset and Image Augmentation.ipynb
 - Part 2 - Preprocessing, Modelling and Evaluation.ipynb
 
-*The datasets and model weights are available [here](https://drive.google.com/file/d/1oBV9MDHq_9KYdekjy5K0NXXU-_Py0Qfy/view?usp=sharing) and [here](https://drive.google.com/drive/folders/1EjsxYWAyeiSUBOShJ-WqBbtTn69XuxhX?usp=sharing).
+*The datasets and model weights are available [here](https://drive.google.com/file/d/1oBV9MDHq_9KYdekjy5K0NXXU-_Py0Qfy/view?usp=sharing) and [here](https://drive.google.com/drive/folders/1EjsxYWAyeiSUBOShJ-WqBbtTn69XuxhX?usp=sharing).*
 
 
 ### Problem Statement
