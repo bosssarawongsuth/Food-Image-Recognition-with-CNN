@@ -5,6 +5,8 @@
 - Part 1 - Dataset and Image Augmentation.ipynb
 - Part 2 - Preprocessing, Modelling and Evaluation.ipynb
 
+*Due to the large size of the datasets, the datasets used in this project are not included here. The original dataset can be downloaded from [Kaggle](https://www.kaggle.com/dansbecker/food-101).
+
 
 ### Problem Statement
 
