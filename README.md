@@ -1,5 +1,11 @@
 # DSi Capstone Project: Food Image Recognition using Convolutional Neural Network
 ## Jetnipat Sarawongsuth 
+
+**This project consists of 2 Jupyter Notebook Files**
+- Part 1 - Dataset and Image Augmentation.ipynb
+- Part 2 - Preprocessing, Modelling and Evaluation.ipynb
+
+
 ### Problem Statement
 
 Connectify.ai is a Singaporean tech start up that focuses on providing AI solutions to the healthcare industry. One of the challenges that they are trying to tackle is developing a mobile application that helps monitor the food intakes for people with diabetes. Part of the monitoring and recommendation process includes food journalling which involves the users entering the food eaten at each meal during the day. This manual process can become cumbersome and thus alternatives such as having the users take pictures of their food and automatically identifying the name of the food is being considered. I will be developing image classification models using Convolutional Neural Networks that can be used to identify the name of some of the more popular food in Asia. This can eventually be integrated into the mobile application to make the food journalling process more user friendly.
