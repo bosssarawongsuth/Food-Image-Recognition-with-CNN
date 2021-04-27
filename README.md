@@ -25,6 +25,7 @@ The images in the testing set were webscraped from search engines such as Google
 The graph above shows the training, validation and testing accuracy for the 8 models trained. They are ranked on the performance on the unseen testing set. In this case, 'Inception V3 Dropout', 'InceptionV3 GAP', 'Inception-ResNetV2' and 'Inception-ResNetV2 Dropout' all scored 0.84 accuracy on the testing set. Thus, these four models generally have low bias. However, as the graph shows, when we take into account the training and validation accuracies, we can see that 'Inception V3 Dropout' generalises the best without suffering from the overfitting problem (high variance). Therefore, this model will be used as the classification engine for our web application.
 
 
+
 ### Conclusion
 
 In conclusion, the best model created (Inception V3 Dropout) was able to satisfactorily classify the 29 different classes of food. Eventhough some food classes were shown to be more challenging than others, the model was still able to perform far better than the baseline accuracy of 3.4%. The model could be deployed on AWS service such as SageMaker to make the model accessible by mobile applications.
